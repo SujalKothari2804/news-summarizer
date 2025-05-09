@@ -26,7 +26,7 @@ Try it out on your local machine or deploy it with ease to [Streamlit Cloud](htt
 
 ```bash
 # Clone the repository
-git clone https://github.com/nkprajapati01/newssumirizer.git
+git clone https://github.com/SujalKothari2804/news-summarizer
 cd ai-news-research-summarizer
 
 # Install dependencies
