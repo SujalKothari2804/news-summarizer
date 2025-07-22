@@ -45,7 +45,7 @@ SERPER_API_KEY = "your-serper-api-key-here"
 streamlit run app.py
 ```
 👨‍💻 **Author**
-* Neeraj Kumar Prajapati
+* Sujal Kothari
 * Made with ❤️ for curious minds and research enthusiasts.
 
 🧠 **Future Ideas**
